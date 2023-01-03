@@ -166,7 +166,7 @@ export class SessionExpiredDialog extends Dialog {
 }
 SessionExpiredDialog.bodyTemplate = "web.SessionExpiredDialogBody";
 SessionExpiredDialog.footerTemplate = "web.SessionExpiredDialogFooter";
-SessionExpiredDialog.title = _lt("Odoo Session Expired");
+SessionExpiredDialog.title = _lt("ERP Session Expired");
 
 registry
     .category("error_dialogs")
