@@ -42,7 +42,7 @@ export class ErrorDialog extends Dialog {
 }
 ErrorDialog.contentClass = "o_dialog_error";
 ErrorDialog.bodyTemplate = "web.ErrorDialogBody";
-ErrorDialog.title = _lt("Odoo Error");
+ErrorDialog.title = _lt("ERP Error");
 
 // -----------------------------------------------------------------------------
 // Client Error Dialog
