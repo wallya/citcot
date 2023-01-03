@@ -687,10 +687,10 @@
 
     SampleServer.SAMPLE_COUNTRIES = ["Belgium", "France", "Portugal", "Singapore", "Australia"];
     SampleServer.SAMPLE_PEOPLE = [
-        "John Miller", "Henry Campbell", "Carrie Helle", "Wendi Baltz", "Thomas Passot",
+        "ሔለን ትዕግስቱ", "ሀሌሉያ አበበ", "ያሬድ መንግስቱ", "መታሰቢያ ተፈሪ", "ማራኪ እያሱ",
     ];
     SampleServer.SAMPLE_TEXTS = [
-        "Laoreet id", "Volutpat blandit", "Integer vitae", "Viverra nam", "In massa",
+        "Saas ERP", "Website", "BBI", "Servers", "FMS",
     ];
     SampleServer.PEOPLE_MODELS = [
         'res.users', 'res.partner', 'hr.employee', 'mail.followers', 'mailing.contact'
